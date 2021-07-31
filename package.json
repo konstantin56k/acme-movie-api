@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/spec",
-    "test:dev": "mocha ./test/spec --watch"
+    "test": "mocha",
+    "test:dev": "npm run test --watch"
   },
   "keywords": [],
   "author": "",
