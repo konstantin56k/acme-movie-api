@@ -1,7 +1,7 @@
 const { expect } = require('chai')
 
 describe('Mocha tests', ()=> {
-    it('First empty test', ()=> {
+    it('First empty test2', ()=> {
 
     })
 })
