@@ -1,7 +1,6 @@
 {
-  "name": "TravisCI",
+  "name": "travisci",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test/spec",
@@ -13,5 +12,17 @@
   "devDependencies": {
     "chai": "^4.3.4",
     "mocha": "^9.0.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantin56k/acme-movie-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konstantin56k/acme-movie-api/issues"
+  },
+  "homepage": "https://github.com/konstantin56k/acme-movie-api#readme",
+  "description": ""
 }
